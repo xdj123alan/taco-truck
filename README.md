@@ -2,7 +2,7 @@
 ## Build Project
 1. build project in this website: https://start.aliyun.com/
 
-## evn
+## env
 1. jdk version: 1.8
 2. spring Boot version:2.6.13
 3. H2 database(url:http://localhost:8080/h2-console)
