@@ -13,9 +13,3 @@ spring:
     console:
       enabled: true
       path: /h2-console
-
-
-  hibernate:
-    enum:
-      unknown_sql_enum_value: DEFAULT
-      default_string_value: ACTIVE
