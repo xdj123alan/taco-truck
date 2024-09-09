@@ -10,7 +10,7 @@
 ### endpoint design
 #### endpoint of query truck
 **request body**  
-url: /truck/page
+url: /truck/page  
 method: POST  
 params:
 ```json
